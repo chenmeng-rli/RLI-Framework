@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use the RLI framework or the A1-Collapse algorithm in your research, please cite the following publication."
+authors:
+  - family-names: "Chen"
+    given-names: "Meng"
+    orcid: "https://orcid.org/0009-0001-5223-7996"
+title: "RLI Framework: Regional Locking Inference for Complex Systems"
+version: 1.0.0
+date-released: 2026-10-29
+url: "https://github.com/yourusername/RLI-Framework" # 替换为你的实际GitHub链接
+preferred-citation:
+  type: article
+  title: "Local Search Optimization for 3-SAT Based on Graph Laplacian Spectral Feedback and Topological Collapse"
+  authors:
+    - family-names: "Chen"
+      given-names: "Meng"
+  year: 2026
+  doi: "10.5281/zenodo.23761720"
