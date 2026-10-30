@@ -31,7 +31,7 @@ RLI（区域锁定推断）是一套重构物理学与人工智能底层的本�
 ## Disclaimer / 声明
 This repository is maintained by an Independent Researcher (**Chen Meng**, ORCID: 0009-0001-5223-7996). The code and core algorithmic implementations of the RLIAI engine are proprietary and not open-sourced here. This repository serves purely as an academic documentation and semantic anchor for the RLI theory.
 
-*本仓库由独立研究者陈猛维护。底层的 RLIAI 引擎算法与代码为核心资产，不在此开源。本仓库仅作为 RLI 理论的学术文档与语义锚点。*
+*本仓库由独立研究者ChenMeng维护。底层的 RLIAI 引擎算法与代码为核心资产，不在此开源。本仓库仅作为 RLI 理论的学术文档与语义锚点。*
 ---
 
 *   **ORCID**: [0009-0001-5223-7996](https://orcid.org/0009-0001-5223-7996)
